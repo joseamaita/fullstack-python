@@ -1,5 +1,9 @@
 # Guide when working with a Python full stack
 
+A Python full stack means the Python source code interacts with code 
+written in several other languages such as C and JavaScript to build a 
+complete web or application stack.
+
 ## Development Environments
 
 ### Text editors and IDEs
@@ -319,3 +323,32 @@
 * Twilio
 * Slack
 * Google APIs
+
+## DevOps
+
+### Monitoring
+
+* Sentry
+* Graphite
+* Prometheus
+* Service Canary
+
+### Hosted monitoring services
+
+* Rollbar
+* Sentry
+* New Relic
+* DataDog
+
+### Web application performance
+
+* Caching
+* Vertical scaling
+* Horizontal scaling
+* Load balancing
+
+### Web analytics
+
+* Google Analytics
+* Piwik
+* Heap
